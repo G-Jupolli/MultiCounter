@@ -1,0 +1,9 @@
+.App {
+  background-color: rgb(234, 237, 237);
+}
+
+.app__counterContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

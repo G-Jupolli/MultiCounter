@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.header__container {
+    background-color: white;
+    padding: 5px 20px;
+    border-bottom: 1px solid lightgray;
+}
+
+.header__form {
+    margin: auto 0;
+}
